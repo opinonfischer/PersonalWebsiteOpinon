@@ -76,8 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Olivia Pinon Fischer is a Senior Research Engineer within the School of Aerospace Engineering at the Georgia Institute of Technology, where she leads the Aerospace Systems Design Laboratory’s Digital Engineering Division. In her current position, Dr. Pinon Fischer leads and manages multi-disciplinary research teams in the fields of digital engineering, digital twins & ecosystems, model-based systems engineering, and ML/AI. Dr. Pinon Fischer is an Associate Fellow of the American Institute of Aeronautics and Astronautics (AIAA), the Secretary of AIAA’s Digital Engineering Integration Committee (DEIC) and the co-chair of its Digital Twin Subcommittee. She is also a member of the International Council of the Aeronautical Sciences (ICAS) Programme Committee and an invited member of NAFEMS’ Engineering Data Science Working Group (EDSWG). Dr. Pinon Fischer holds M.Sc. degrees in a variety of engineering fields and a Ph.D. in Aerospace Engineering from the Georgia Institute of Technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
