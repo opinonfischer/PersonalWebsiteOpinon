@@ -30,14 +30,14 @@ item:
 of aeronautics or astronautics."
   organization: AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA)
   organization_url: https://www.aiaa.org
-  title: AIAA Associate Fellow
+  title: "AIAA Associate Fellow"
 - certificate_url: 
   date_end: ""
   date_start: "2020-03-01"
   description: "Awarded to research faculty and students for their contributions to a safer campus by ASDL’s Grand Challenge team."
   organization: GEORGIA TECH POLICE DEPARTMENT
   organization_url: 
-  title: Georgia Tech Police Department’s Student Partnership award
+  title: "Georgia Tech Police Department’s Student Partnership award"
   url: 
 - certificate_url: 
   date_end: ""
@@ -45,23 +45,23 @@ of aeronautics or astronautics."
   description: "Advisor to First Place Team"
   organization: Simio
   organization_url: 
-  title: Simio Student Competition
+  title: "Simio Student Competition"
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2015-05-01"
   description: "Advisor to First Place Team"
   organization: Simio
   organization_url: 
-  title: Simio Student Competition
+  title: "Simio Student Competition"
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: "2010-12-31"
   date_start: "2007-01-01"
   description: "Fellowship"
   organization: Thales
   organization_url: 
-  title: Thales, Air Systems Division
+  title: "Thales, Air Systems Division"
   url: ""
 design:
   columns: '2' 
