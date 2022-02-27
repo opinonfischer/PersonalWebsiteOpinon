@@ -45,12 +45,12 @@ experience:
     location: Atlanta, GA, U.S.A.
     date_start: '2012-02-01'
     date_end: '2018-06-30'
-    description: |2-
-        Responsibilities include:
-      * Lead and manage multi-disciplinary research teams in the fields of production analytics, aircraft and UAV/UAS affordability-based design, manufacturing-influenced design, technology portfolio and strategic planning, and data/text mining and visual analytics.
-       * Coordinate research among other research faculty and graduate students.
-       * Work with ASDL Strategic Manager to develop leads for sponsored research projects.
-      * Supervise Master and Doctoral students’ academic research and serve on Ph.D. thesis committees.
+    # description: |2-
+    #    Responsibilities include:
+    #  * Lead and manage multi-disciplinary research teams in the fields of production analytics, aircraft and UAV/UAS affordability-based design, manufacturing-influenced design, technology portfolio and strategic planning, and data/text mining and visual analytics.
+    #   * Coordinate research among other research faculty and graduate students.
+    #   * Work with ASDL Strategic Manager to develop leads for sponsored research projects.
+    #  * Supervise Master and Doctoral students’ academic research and serve on Ph.D. thesis committees.
 
 design:
   columns: '2'
