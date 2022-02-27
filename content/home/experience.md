@@ -28,7 +28,7 @@ experience:
     location: Atlanta, GA, U.S.A.
     date_start: '2018-07-01'
     date_end: ''
-    description: |2-
+    # description: |2-
         Responsibilities include:
         * Lead and manage multi-disciplinary research teams in the fields of living habitats, digital twins & ecosystems, digital factories, production analytics, machine  learning, artificial intelligence, data fusion, big data, strategic planning, data/text mining, visual analytics, decision support environments.
         * Support meetings and interact directly with sponsors/clients from both government and industry.
