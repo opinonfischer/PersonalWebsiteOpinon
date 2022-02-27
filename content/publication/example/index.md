@@ -6,10 +6,9 @@ title: "Coming up"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-# - Robert Ford
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
