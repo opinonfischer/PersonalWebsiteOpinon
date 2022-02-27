@@ -13,7 +13,7 @@ location: Virtual
 #  country: United States
 
 # Presentation Title: Applications of AI/ML to Air Transportation Challenges.
-bstract: This event was a live panel discussion with members of the Engineering Data Science Working Group and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021.
+abstract: This event was a live panel discussion with members of the Engineering Data Science Working Group and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-12-06'
