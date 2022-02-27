@@ -29,13 +29,13 @@ experience:
     date_start: '2018-07-01'
     date_end: ''
     # description: |2-
-        Responsibilities include:
-        * Lead and manage multi-disciplinary research teams in the fields of living habitats, digital twins & ecosystems, digital factories, production analytics, machine  learning, artificial intelligence, data fusion, big data, strategic planning, data/text mining, visual analytics, decision support environments.
-        * Support meetings and interact directly with sponsors/clients from both government and industry.
-        * Lead and develop proposals, manage research activities among other research faculty and graduate students, manage schedules, budgets and deliverables.
-        * Work with ASDL Strategic Manager to develop leads for sponsored research projects.
-        * Supervise Master and Doctoral students’ academic research and serve on Ph.D. thesis committees.
-        * Participate and contribute to technical committees within AIAA. 
+    #    Responsibilities include:
+    #    * Lead and manage multi-disciplinary research teams in the fields of living habitats, digital twins & ecosystems, digital factories, production analytics, machine  learning, artificial intelligence, data fusion, big data, strategic planning, data/text mining, visual analytics, decision support environments.
+    #    * Support meetings and interact directly with sponsors/clients from both government and industry.
+    #    * Lead and develop proposals, manage research activities among other research faculty and graduate students, manage schedules, budgets and deliverables.
+    #    * Work with ASDL Strategic Manager to develop leads for sponsored research projects.
+    #    * Supervise Master and Doctoral students’ academic research and serve on Ph.D. thesis committees.
+    #    * Participate and contribute to technical committees within AIAA. 
         
    
         
