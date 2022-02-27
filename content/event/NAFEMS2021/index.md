@@ -13,7 +13,7 @@ location: Virtual
 #  country: United States
 
 Presentation Title: NAFEMS' Today’s Opportunities and Challenges of Data Science in Engineering
-abstract: "This event was a live panel discussion with members of the [Engineering Data Science Working Group] (http://https://www.nafems.org/community/working-groups/engineering-data-science/community/) and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021."
+abstract: This event was a live panel discussion with members of the [Engineering Data Science Working Group] (http://https://www.nafems.org/community/working-groups/engineering-data-science/community/) and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-12-06'
@@ -60,14 +60,3 @@ links:
 # - example
 ---
 
-# {{% callout note %}}
-# Click on the **Slides** button above to view the built-in slides feature.
-# {{% /callout %}}
-
-# Slides can be added in a few ways:
-
-# - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
