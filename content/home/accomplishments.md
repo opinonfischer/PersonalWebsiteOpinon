@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.aiaa.org
+- certificate_url: 
   date_end: ""
   date_start: "2022-01-03"
   description: "Awarded to individuals of distinction who have made notable and valuable contributions to the arts, sciences, or technology
@@ -39,15 +39,30 @@ of aeronautics or astronautics."
   organization_url: 
   title: Georgia Tech Police Department’s Student Partnership award
   url: 
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: 
+  date_end: ""
+  date_start: "2016-05-01"
+  description: "Advisor to First Place Team"
+  organization: Simio
+  organization_url: 
+  title: Simio Student Competition
   url: ""
-
+  - certificate_url: 
+  date_end: ""
+  date_start: "2015-05-01"
+  description: "Advisor to First Place Team"
+  organization: Simio
+  organization_url: 
+  title: Simio Student Competition
+  url: ""
+  - certificate_url: 
+  date_end: "2010-12-31"
+  date_start: "2007-01-01"
+  description: "Fellowship"
+  organization: Thales
+  organization_url: 
+  title: Thales, Air Systems Division
+  url: ""
 design:
   columns: '2' 
 ---
