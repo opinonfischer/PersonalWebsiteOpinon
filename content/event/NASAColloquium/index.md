@@ -42,7 +42,7 @@ links:
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
-  url_video: https://nasatube.nasa.gov/Watch=3VJVYU
+# url_video: https://nasatube.nasa.gov/Watch=3VJVYU
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
