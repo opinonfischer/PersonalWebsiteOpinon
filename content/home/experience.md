@@ -39,7 +39,7 @@ experience:
         
    
         
-  - title: Research Engineer II and Chief, Manufacturing Systems & Process Design branch
+  - title: Research Engineer II & Chief, Manufacturing Systems & Process Design branch
     company: Georgia Institute of Technology, Aerospace Systems Design Laboratory
     company_url: 'www.asdl.gatech.edu'
     location: Atlanta, GA, U.S.A.
