@@ -24,7 +24,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
- <!-- # Contact details (edit or remove options as required)
+ # Contact details (edit or remove options as required)
   email: test@example.org
   phone: 888 888 88 88
   address:
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'-->
+      link: 'https://zoom.com'
 
 design:
   columns: '2'
