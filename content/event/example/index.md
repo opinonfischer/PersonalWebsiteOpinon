@@ -18,7 +18,7 @@ Presentation Title: Applications of AI/ML to Air Transportation Challenges.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-01-25'
-date_end: 
+# date_end: 
 # '2030-06-01T15:00:00Z'
 all_day: false
 
