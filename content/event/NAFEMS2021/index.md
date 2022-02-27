@@ -12,8 +12,8 @@ location: Virtual
 #  postcode: '94305'
 #  country: United States
 
-Presentation Title: ANAFEMS' Today’s Opportunities and Challenges of Data Science in Engineering.
-abstract: This event was a live panel discussion with members of the [Engineering Data Science Working Group] (http://https://www.nafems.org/community/working-groups/engineering-data-science/community/) and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021.
+Presentation Title: "NAFEMS' Today’s Opportunities and Challenges of Data Science in Engineering"
+abstract: "This event was a live panel discussion with members of the [Engineering Data Science Working Group] (http://https://www.nafems.org/community/working-groups/engineering-data-science/community/) and follows on from the recent 'AI (ML) in Engineering Design: Its Status and Readiness for its panel discussion at the NAFEMS World Congress 2021."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-12-06'
