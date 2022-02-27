@@ -37,7 +37,7 @@ of aeronautics or astronautics."
   description: "Awarded to research faculty and students for their contributions to a safer campus by ASDL’s Grand Challenge team."
   organization: GEORGIA TECH POLICE DEPARTMENT
   organization_url: 
-  title: "Georgia Tech Police Department’s Student Partnership award"
+  title: "Georgia Tech Police Department’s Student Partnership Award"
   url: 
 - certificate_url: 
   date_end: ""
