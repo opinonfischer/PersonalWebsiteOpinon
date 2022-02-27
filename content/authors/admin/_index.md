@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Olivia Pinon Fischer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Chief, Digital Engineering Division - Senior Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Georgia Institute of Technology - Aerospace Systems Design Laboratory
+  url: https://www.asdl.gatech..edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,21 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Aerospace Engineering
+    institution: Georgia Institute of Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Space Studies
+    institution: International Space University
+    year: 2006
+  - course: M.Sc. Mechanical Engineering and Wood Science & Engineering (Dual Degree)
+    institution: Oregon State University
+    year: 2005
+  - course: M.Sc. in Mechanical Engineering
+    institution: Institut des Science et Techniques de l'Ingenieur de Lyon (France)
+    year: 2003
+  - course: B.Sc. equivalent in Mathematics & Physics
+    institution: Universite Claude Bernard Lyon I (France)
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +67,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/CV_OliviaPinonFischer_January2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
