@@ -17,19 +17,20 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
+# Honors & Awards
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.aiaa.org
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2022-01-03"
+  description: "Awarded to individuals of distinction who have made notable and valuable contributions to the arts, sciences, or technology
+of aeronautics or astronautics."
+  organization: AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA)
+  organization_url: https://www.aiaa.org
+  title: AIAA Associate Fellow
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
