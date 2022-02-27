@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Senior Research Engineer & Chief, Digital Engineering Division
     company: Georgia Institute of Technology, Aerospace Systems Design Laboratory
-    company_url: 'www.asdl.gatech.edu'
+    company_url: www.asdl.gatech.edu
     location: Atlanta, GA, U.S.A.
     date_start: '2018-07-01'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
         
   - title: Research Engineer II & Chief, Manufacturing Systems & Process Design branch
     company: Georgia Institute of Technology, Aerospace Systems Design Laboratory
-    company_url: 'www.asdl.gatech.edu'
+    company_url: www.asdl.gatech.edu
     location: Atlanta, GA, U.S.A.
     date_start: '2012-02-01'
     date_end: '2018-06-30'
